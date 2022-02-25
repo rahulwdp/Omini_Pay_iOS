@@ -8,6 +8,7 @@ Pod::Spec.new do |s|
 
   s.summary      =  'Safe and Secure payment class'
   s.description  =  'Safe and Secure payment class'
-  s.ios.deployment_target = '12.0'
+  s.platforms = { :ios => '12.1' }
+  s.ios.deployment_target = '12.1'
   s.vendored_frameworks = "Framework/OminiPay.framework"
 end
