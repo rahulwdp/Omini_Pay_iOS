@@ -2,12 +2,12 @@ Pod::Spec.new do |s|
   s.name         =  'OminiPay'
   s.version      =  '1.0.0'
   s.license      =  { :type => 'MIT', :file => 'LICENSE' }
-  s.homepage     =  'http://github.com//CocoaPodsExampleLibrary'
-  s.authors      =  { 'orta' => 'orta.therox@gmail.com' }
-  s.source       =  { :git => 'https://github.com/CocoaPods/CocoaPodsExampleLibrary.git', :tag => s.version.to_s }
+  s.homepage     =  'https://github.com/rahulwdp/Omini_Pay_iOS'
+  s.authors      =  { 'PSP' => 'info@digitalworld.com.sa'}
+  s.source       =  { :git => 'hhttps://github.com/rahulwdp/Omini_Pay_iOS.git', :tag => s.version.to_s }
 
-  s.summary      =  'Just a simple podspec, no working code.'
-  s.description  =  'Just a simple podspec for 2 files of Objective-C.'
+  s.summary      =  'Safe and Secure payment class'
+  s.description  =  'Safe and Secure payment class'
 
-  s.source_files = "Classes/ExampleLib.{m,h}"
+  s.source_files = "Framework/OminiPay.framework/Headers/OminiPay.{h}"
 end
