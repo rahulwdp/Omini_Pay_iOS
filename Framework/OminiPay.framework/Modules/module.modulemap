@@ -1,0 +1,11 @@
+framework module OminiPay {
+  umbrella header "OminiPay.h"
+
+  export *
+  module * { export * }
+}
+
+module OminiPay.Swift {
+    header "OminiPay-Swift.h"
+    requires objc
+}
