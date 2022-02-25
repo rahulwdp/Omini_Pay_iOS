@@ -9,5 +9,5 @@ Pod::Spec.new do |s|
   s.summary      =  'Safe and Secure payment class'
   s.description  =  'Safe and Secure payment class'
 
-  s.ios.vendored_frameworks = "Framework/OminiPay.framework"
+  s.vendored_frameworks = "Framework/OminiPay.framework"
 end
