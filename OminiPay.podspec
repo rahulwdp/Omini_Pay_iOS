@@ -9,5 +9,5 @@ Pod::Spec.new do |s|
   s.summary      =  'Safe and Secure payment class'
   s.description  =  'Safe and Secure payment class'
 
-  s.source_files = "Framework/OminiPay.framework/Headers/OminiPay.{h}"
+  s.source_files = "Framework/*"
 end
