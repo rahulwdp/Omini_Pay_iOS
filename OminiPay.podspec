@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.license      =  { :type => 'MIT', :file => 'LICENSE' }
   s.homepage     =  'https://github.com/rahulwdp/Omini_Pay_iOS'
   s.authors      =  { 'PSP' => 'info@digitalworld.com.sa'}
-  s.source       =  { :git => 'hhttps://github.com/rahulwdp/Omini_Pay_iOS.git', :tag => s.version.to_s }
+  s.source       =  { :git => 'https://github.com/rahulwdp/Omini_Pay_iOS.git', :tag => s.version.to_s }
 
   s.summary      =  'Safe and Secure payment class'
   s.description  =  'Safe and Secure payment class'
