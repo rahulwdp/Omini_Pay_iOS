@@ -52,7 +52,7 @@ obj.delegate = self
 ```sh
 let param = [
     "name" : "John",
-        "email" : "johndoe@mailinator.com",
+    "email" : "johndoe@mailinator.com",
     "amount" : "100.0",
     "currency" : "SAR",
     "order_id" : "123",
