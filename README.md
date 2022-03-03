@@ -11,8 +11,9 @@ To run the example project, clone the repo, and run pod install from the Examp
 # Installation | Docs
 Through  Cocoa pods
 
+```sh
 pod ‘OminiPay’
-
+```
 # Manual
 
 Drag n Drop the  ‘**Framework**’  folder into your project.
@@ -24,11 +25,15 @@ Drag n Drop the  ‘**Framework**’  folder into your project.
 
 View controller where you want to set payment import OminiPay library like below:
 
+```sh
 import OminiPay
+```
 
 # Create OminiPay Object
 
+```sh
 let obj = OminiPay.initWith(key: “Your OminiPa’sy Account key”)
+```
 
 # Set Delegate to view controller
 
@@ -36,12 +41,15 @@ obj.delegate = self
 
 # Call CheckoutMethod
 
+```sh
  obj.checkOutRequestWith(param)
+```
 
 **Note:** param is the variable in which you set your card details:
 
 ## Parameter Sample Formate
 
+```sh
 ["customer":["name”:”XYZ”, ”email”:”xyz@mailinator.com"],
          "order":["amount":"10.00","currency":"SAR","id":"420"],
          "sourceOfFunds":["provided":
@@ -55,13 +63,15 @@ obj.delegate = self
          ],
          "remark":["description":"This payment is done by card iOS”]
         ]
+```
 
 # Add Delegate methods to ViewControlelr
-
+```sh
  func paymentDoneWith(success: Bool, data: [String : Any]?)
+ ```
 
 # Example
-
+```sh
 extension ViewController : OminiResponseDelegate {
     func paymentDoneWith(success: Bool, data: [String : Any]?) {
         if success {
@@ -71,6 +81,7 @@ extension ViewController : OminiResponseDelegate {
         }
     }
 }
+```
 
 
 
