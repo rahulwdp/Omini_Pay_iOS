@@ -50,19 +50,18 @@ obj.delegate = self
 ## Parameter Sample Formate
 
 ```sh
-["customer":["name”:”XYZ”, ”email”:”xyz@mailinator.com"],
-         "order":["amount":"10.00","currency":"SAR","id":"420"],
-         "sourceOfFunds":["provided":
-                            ["card":
-                                ["number":"5105105105105100",
-                                 "expiry":["month":"12","year":"23"],
-                                 "cvv":"999"
-                                ]
-                            ],
-                          "cardType":"C"
-         ],
-         "remark":["description":"This payment is done by card iOS”]
-        ]
+let param = [
+    "name" : "John",
+        "email" : "johndoe@mailinator.com",
+    "amount" : "100.0",
+    "currency" : "SAR",
+    "order_id" : "123",
+    "card_number" : "5151515151515151",
+    "exp_month" : "12",
+    "exp_year" : "26",
+    "cvv" : "123",
+    "card_type" : "C"
+]
 ```
 
 # Add Delegate methods to ViewControlelr
