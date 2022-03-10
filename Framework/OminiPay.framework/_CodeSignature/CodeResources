@@ -6,7 +6,7 @@
 	<dict>
 		<key>Checkout.nib</key>
 		<data>
-		RzRRg+oyiXrMUxOPyCMUgMN+jVs=
+		YRGuQpmxsBZwLs7sD3s5FekdFLI=
 		</data>
 		<key>Headers/OminiPay-Swift.h</key>
 		<data>
@@ -22,11 +22,11 @@
 		</data>
 		<key>Modules/OminiPay.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		MZHUgC2UAMwgh5aCDgvnfZQVLkQ=
+		4PLxivAhwYseF3Apg7YhIQjiMs8=
 		</data>
 		<key>Modules/OminiPay.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<data>
-		MZHUgC2UAMwgh5aCDgvnfZQVLkQ=
+		4PLxivAhwYseF3Apg7YhIQjiMs8=
 		</data>
 		<key>Modules/OminiPay.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/OminiPay.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		HctjFbqF9Mo+RJLSYwbjTElkJAA=
+		1Bw3y+YxMI5qvdODJwELcNUQ0XY=
 		</data>
 		<key>Modules/OminiPay.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Modules/OminiPay.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		HctjFbqF9Mo+RJLSYwbjTElkJAA=
+		1Bw3y+YxMI5qvdODJwELcNUQ0XY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -55,7 +55,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UxGsUl84Vio3POmR6wVxdHL3oqiFS62zhusvj9Ik02c=
+			x0o6KNv3rN5oYKmNpsiNhcTzf5eW8ade6ySPsFMl5EQ=
 			</data>
 		</dict>
 		<key>Headers/OminiPay-Swift.h</key>
@@ -76,14 +76,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Q8Gnypjg9eJ27A6EX+H95YEc1KQr2qkb4a+ZYoqaXsQ=
+			YDqziV+gRX5WTfRpI60PY+L5Qg0oG6rr6QkxD+24/Aw=
 			</data>
 		</dict>
 		<key>Modules/OminiPay.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Q8Gnypjg9eJ27A6EX+H95YEc1KQr2qkb4a+ZYoqaXsQ=
+			YDqziV+gRX5WTfRpI60PY+L5Qg0oG6rr6QkxD+24/Aw=
 			</data>
 		</dict>
 		<key>Modules/OminiPay.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -97,7 +97,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3ECmwzMPNMAHrwTIwrAYdi95BAkPSqGG2iwJMAFWVRI=
+			XlmXLuJxiHrc1XfeKhtxVKwuexVAR0jKD6n4pspiHZc=
 			</data>
 		</dict>
 		<key>Modules/OminiPay.swiftmodule/arm64.swiftdoc</key>
@@ -111,7 +111,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3ECmwzMPNMAHrwTIwrAYdi95BAkPSqGG2iwJMAFWVRI=
+			XlmXLuJxiHrc1XfeKhtxVKwuexVAR0jKD6n4pspiHZc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
