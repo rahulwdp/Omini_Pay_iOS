@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         =  'OminiPay'
-  s.version      =  '1.0'
+  s.version      =  '1.1'
   s.license      =  { :type => 'MIT', :file => 'LICENSE' }
   s.homepage     =  'https://github.com/rahulwdp/Omini_Pay_iOS'
   s.authors      =  { 'PSP' => 'info@digitalworld.com.sa'}
